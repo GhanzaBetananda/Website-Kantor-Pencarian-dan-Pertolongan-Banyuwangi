@@ -968,7 +968,7 @@ function App() {
                     {/* FOTO UTAMA */}
                     <div className="group relative col-span-2 h-[300px] overflow-hidden rounded-2xl bg-slate-900">
                       <img
-                        src="/fasilitas/kendaraan-1.jpg"
+                        src="/type1.jpg"
                         alt="Kendaraan Operasional BASARNAS Banyuwangi"
                         className="h-full w-full object-cover transition duration-700 ease-out group-hover:scale-105"
                         onError={(e) => {
@@ -1019,7 +1019,7 @@ function App() {
                     {/* KENDARAAN DARAT 2 */}
                     <div className="group relative h-44 overflow-hidden rounded-2xl bg-slate-900">
                       <img
-                        src="/fasilitas/kendaraan-2.jpg"
+                        src="/type2.jpeg"
                         alt="Kendaraan Darat BASARNAS"
                         className="h-full w-full object-cover transition duration-700 group-hover:scale-110"
                         onError={(e) => {
@@ -1043,7 +1043,7 @@ function App() {
                     {/* KENDARAAN DARAT 3 */}
                     <div className="group relative h-44 overflow-hidden rounded-2xl bg-slate-900">
                       <img
-                        src="/fasilitas/kendaraan-3.jpg"
+                        src="/type3.jpg"
                         alt="Kendaraan Darat BASARNAS"
                         className="h-full w-full object-cover transition duration-700 group-hover:scale-110"
                         onError={(e) => {
@@ -1067,7 +1067,7 @@ function App() {
                     {/* KENDARAAN AIR */}
                     <div className="group relative h-52 overflow-hidden rounded-2xl bg-slate-900">
                       <img
-                        src="/fasilitas/kendaraan-air.jpg"
+                        src="/widura.jpg"
                         alt="Kendaraan Air BASARNAS Banyuwangi"
                         className="h-full w-full object-cover transition duration-700 group-hover:scale-110"
                         onError={(e) => {
@@ -1095,7 +1095,7 @@ function App() {
                     {/* ALAT KOMUNIKASI */}
                     <div className="group relative h-52 overflow-hidden rounded-2xl bg-slate-900">
                       <img
-                        src="/fasilitas/komunikasi.jpg"
+                        src="/komunikasi.jpg"
                         alt="Alat Komunikasi BASARNAS Banyuwangi"
                         className="h-full w-full object-cover transition duration-700 group-hover:scale-110"
                         onError={(e) => {
@@ -1123,7 +1123,7 @@ function App() {
                     {/* MEDIS */}
                     <div className="group relative h-40 overflow-hidden rounded-2xl bg-slate-900">
                       <img
-                        src="/fasilitas/medis.jpg"
+                        src="/emergency.jpg"
                         alt="Peralatan Medis BASARNAS Banyuwangi"
                         className="h-full w-full object-cover transition duration-700 group-hover:scale-110"
                         onError={(e) => {
@@ -1147,7 +1147,7 @@ function App() {
                     {/* PERALATAN KHUSUS */}
                     <div className="group relative h-40 overflow-hidden rounded-2xl bg-slate-900">
                       <img
-                        src="/fasilitas/khusus.jpg"
+                        src="/drone.jpg"
                         alt="Peralatan Khusus BASARNAS Banyuwangi"
                         className="h-full w-full object-cover transition duration-700 group-hover:scale-110"
                         onError={(e) => {
